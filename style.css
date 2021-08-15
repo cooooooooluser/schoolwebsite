@@ -2,4 +2,31 @@ marquee{
     font-size:50px;
     color: red;
 }
+.movie_header{
+    display:inline-block;
+    margin-bottom: 10px;
+    font-size: 20px;
+    width:100%;
+    
+}
+#Ach{
+    text-align: left;
+}
+
+#library{
+ width:33%;
+float:left;
+border:1px solid;
+border-color:black;
+padding:3px;
+margin:1.9px;
+}
+
+#library img{
+    height: 300px;
+    width:300px;
+}
+#Achievments{
+    margin-top:10px;
+}
 
